@@ -15,6 +15,7 @@
 
 ## Links / 链接
 
+- DeepSurge: https://deepsurge.io/... (项目展示页 / Project showcase)
 - GitHub: https://github.com/...
 - Demo Video: https://... (YouTube, ≤ 5 min)
 - Website: https://... (optional)

@@ -74,6 +74,7 @@ cp -r submissions/_template submissions/<你的GitHub用户名>
 
 ## Links / 链接
 
+- DeepSurge: https://deepsurge.io/project/suipay
 - GitHub: https://github.com/myname/sui-pay
 - Demo: https://www.youtube.com/watch?v=xxx
 - Website: https://suipay.xyz
