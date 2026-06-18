@@ -4,25 +4,25 @@
 
 <!-- 选择一个赛道，把 [ ] 改成 [x] / Select one track -->
 
-- [] Agentic Web
+- [ ] Agentic Web
 - [ ] DeFi & Payments
 - [ ] DeepBook
 - [x] Walrus
 
 ## Description / 项目简介
-AI Art Trace is a decentralized NFT platform that combines AI-generated art with blockchain technology, enabling creators to mint unique digital artworks with full provenance tracking.
-<!-- 一段话描述你的项目：做什么，为什么重要 / What it does, why it matters -->
+
+ChainTrace is a decentralized product traceability platform built on the Sui blockchain, enabling businesses and consumers to track product provenance from origin to end-user with complete transparency and immutability.
 
 ## Links / 链接
 
 - DeepSurge:https://www.deepsurge.xyz/projects/66cea8b3-631f-45ea-b84c-ca039ce8b084 (项目展示页 / Project showcase)
-- GitHub: https://github.com/...
+- GitHub: https://github.com/maybeOk/ChainTrace
 - Demo Video: https://... (YouTube, ≤ 5 min)
 - Website: https://... (optional)
 
 ## Team / 团队成员
 
-<!-- 列出所有成员的 GitHub ID / List all team members' GitHub IDs -->
+maybeOk
 
 - @maybeOk
 
