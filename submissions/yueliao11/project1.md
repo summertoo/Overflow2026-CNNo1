@@ -12,9 +12,9 @@ This turns agent outputs, review attestations, and payment release into a single
 
 ## Links / 链接
 
-- DeepSurge: (TODO — add project showcase URL)
+- DeepSurge: https://www.deepsurge.xyz/projects/dda416a0-7387-46e9-a84f-f28c31b7cbd0
 - GitHub: https://github.com/yueliao11/proofPay
-- Demo Video: (TODO — upload pitch/demo video to YouTube and update)
+- Demo Video: https://www.youtube.com/watch?v=ezqdlvrqerw
 - Website: https://proofpay.pages.dev/
 - Pitch Deck: https://github.com/yueliao11/proofPay/tree/main/pitch/pitch-deck.html
 
