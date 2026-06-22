@@ -16,6 +16,12 @@ The system is built around three layers of control. On-chain, the vault enforces
 The latest version also includes session lifecycle handling. When a session key expires, the runtime blocks further execution, surfaces the expired state in the dashboard, supports asset recovery from the session-key address back to the user wallet, and provides a path to revoke the old key and rotate to a new one.
 In short, this demo shows the core agent-wallet workflow: controlled delegation, limited permissions, optional human approval, and recoverable session-key operations, all tied together in a minimal end-to-end Sui experience.
 
+## Links / 链接
+
+- DeepSurge: https://www.deepsurge.xyz/projects/aa5f388e-b892-4cfc-b0b8-e522acb47538
+- GitHub: https://github.com/nickwest-zkp/sui-agent-pay
+- Demo Video: https://sui-agent-pay.vercel.app/
+- Website: https://sui-agent-pay.vercel.app/
 
 ## Team / 团队成员
 

@@ -14,6 +14,12 @@ It helps distinguish verified humans from autonomous agents through zkLogin-base
 The project also supports cross-chain identity binding through TAP, enabling agents to carry verifiable trust and credentials across ecosystems. 
 With a Sui Move smart contract layer and a Next.js frontend, SuiSoul provides a practical foundation for secure, transparent, and interoperable agent identity management in the agentic web.
 
+## Links / 链接
+
+- DeepSurge: https://www.deepsurge.xyz/projects/d1abbc33-a9fc-4b3c-bdc7-fd4061790580
+- GitHub: https://github.com/nickwest-zkp/sui-soul
+- Demo Video: https://github.com/nickwest-zkp/sui-soul
+- Website: https://github.com/nickwest-zkp/sui-soul
 
 ## Team / 团队成员
 

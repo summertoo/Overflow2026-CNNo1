@@ -15,6 +15,13 @@ Groth16 ZK proof flow so a wallet address can deterministically generate, verify
 local, TEE, or ZK verification modes.
 
 
+## Links / 链接
+
+- DeepSurge: https://www.deepsurge.xyz/projects/20ac47bf-bebe-4dde-acea-d3c96dbf774f
+- GitHub: https://github.com/nickwest-zkp/sui-fuzz
+- Demo Video: https://drive.google.com/drive/folders/1YcYyySV4cQQi0CdhVPBF3oYN3Oi4Q0K0?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+- Website: https://github.com/nickwest-zkp/sui-fuzz
+
 ## Team / 团队成员
 
 - @nickwest-zkp

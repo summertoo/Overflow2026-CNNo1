@@ -12,6 +12,12 @@
 SuiFlap is a Sui-native launchpad prototype for memecoin-style launches, creator vaults, and PvP token duels. 
 It combines object-based curve trading, tax routing, and DeepBook-ready graduation paths with Walrus-friendly asset storage, giving creators and traders a fast, modular flow from launch to liquidity migration.
 
+## Links / 链接
+
+- DeepSurge: https://www.deepsurge.xyz/projects/9c69dd6e-c490-465c-93f5-be52bb1d1476
+- GitHub: https://github.com/nickwest-zkp/sui-flap
+- Demo Video: https://sui-flap-bice.vercel.app/
+- Website: https://sui-flap-bice.vercel.app/
 
 ## Team / 团队成员
 

@@ -14,6 +14,12 @@ It allows developers to publish reusable AI skills, requesters to create bountie
 The protocol combines on-chain coordination, decentralized storage, and verifiable off-chain computation to support transparent execution, optimistic settlement, and dispute resolution. 
 By committing structured outputs with a Merkle root and verifying objective claims on-chain, SkillWal keeps the core contract logic simple while still making execution results auditable and contestable when disputes arise.
 
+## Links / 链接
+
+- DeepSurge: https://www.deepsurge.xyz/projects/cc23e09a-be93-4efe-82b0-f191df6c9782
+- GitHub: https://github.com/nickwest-zkp/skillwal
+- Demo Video: https://github.com/nickwest-zkp/skillwal
+- Website: https://github.com/nickwest-zkp/skillwal
 
 ## Team / 团队成员
 

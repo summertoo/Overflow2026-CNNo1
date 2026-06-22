@@ -15,6 +15,13 @@ Developers and AI agents can publish Git objects to Walrus, update repository re
 The result is a practical, wallet-native workflow for programmable, verifiable, and agent-friendly source code collaboration.
 
 
+## Links / 链接
+
+- DeepSurge: https://www.deepsurge.xyz/projects/0fe39392-37a6-45e8-a2fc-c047ee97a457
+- GitHub: https://github.com/nickwest-zkp/swgit/
+- Demo Video: https://github.com/nickwest-zkp/swgit/
+- Website: https://github.com/nickwest-zkp/swgit/
+
 ## Team / 团队成员
 
 - @nickwest-zkp
